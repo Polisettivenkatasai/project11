@@ -1,0 +1,369 @@
+body {
+    margin: 0px;
+}
+img[alt="logo"] {
+    filter: brightness(0);
+    width: 6rem;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding-block: 2rem;
+    align-items: center;
+}
+.list-item {
+    display: flex;
+}
+ul.list-item {
+    display: flex;
+    font-size: medium;
+    font-family: sans-serif;
+    align-items:center ;
+    color: gray;
+}
+button.rg {
+    background: transparent;
+    margin-left: 3rem;
+    font-family: sans-serif;
+    font-size: medium;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    color: #0666d6;
+    border-color: #0666d6;
+}
+.first {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+}
+.first h1 {
+    font-family: sans-serif;
+    font-size: 3rem;
+    width: 30rem;
+}
+.first p {
+    color: gray;
+    font-family: sans-serif;
+    width: 32rem;
+}
+button.cp {
+    color: white;
+    background-image: linear-gradient(to bottom right,#09c0f8, #005fe9);
+    border: none;
+    font-weight: bold;
+    padding: 1rem;
+    border-radius: .5rem;
+    font-size: 2.5vh;
+}
+div#setting {
+    width: 35rem;
+    height: 27rem;
+    background-image: url(./assests/Hosting\ Landing\ Page.svg);
+    background-position: 0px -31px;
+    filter: brightness(1.1);
+}
+.second {
+    display: flex;
+    flex-flow: row-reverse;
+    justify-content: space-around;
+    margin-top: 8rem;
+}
+.second h1 {
+    font-family: sans-serif;
+    font-size: 3rem;
+    width: 32rem;
+}
+.second p {
+    color: gray;
+    font-family: sans-serif;
+    width: 32rem;
+}
+div#setting02 {
+    width: 35rem;
+    height: 27rem;
+    background-image: url(./assests/Hosting\ Landing\ Page.svg);
+    background-position: 35rem -6rem;
+    filter: brightness(1.1);
+}
+.third {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8rem;
+}
+.third h1 {
+    font-family: sans-serif;
+    font-size: 3rem;
+    width: 32rem;
+}
+.third p {
+    color: gray;
+    font-family: sans-serif;
+    width: 32rem;
+}
+.setting03 img {
+    width: 70vh;
+}
+.set02 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4rem;
+}
+.set02 h1 {
+    font-family: sans-serif;
+    width: 30rem;
+    font-size: 3rem;
+    margin-right: 4rem;
+}
+.set02 p {
+    font-family: sans-serif;
+    width: 34rem;
+    color: gray;
+
+}
+.set01 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 6rem;
+}
+h2.set {
+    font-family: sans-serif;
+}
+p.set {
+    width: 20rem;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: gray;
+}
+div#setting03 {
+    width: 4.5rem;
+    height: 4.5rem;
+    background-image: url(./assests/Hosting\ Landing\ Page.svg);
+    background-position: -47rem -47rem;
+    filter: brightness(1.1);
+}
+div#setting04 {
+    width: 4.5rem;
+    height: 4.5rem;
+    background-image: url(./assests/Hosting\ Landing\ Page.svg);
+    background-position: -32rem -53rem;
+    filter: brightness(1.1);
+}
+div#setting05 {
+    width: 4.5rem;
+    height: 4.5rem;
+    background-image: url(./assests/Hosting\ Landing\ Page.svg);
+    background-position: -39rem -53rem;
+    filter: brightness(1.1);
+}
+div#setting06 {
+    width: 4.5rem;
+    height: 4.5rem;
+    background-image: url(./assests/Hosting\ Landing\ Page.svg);
+    background-position: -47rem -53rem;
+    filter: brightness(1.1);
+}
+section.color {
+    background-image: linear-gradient(to bottom right,#09c0f8, #005fe9);
+    font-family: system-ui;
+}
+.text {
+    text-align: center;
+    padding-block: 2rem;
+    font-size: 2rem;
+    color: white;
+}
+.fifth {
+    display: flex;
+    justify-content: space-evenly;
+}
+.pack {
+    background-color: white;
+    padding-inline: 4rem;
+    border-radius: 1rem;
+    margin-bottom: 3rem;
+}
+.pack p {
+    margin-bottom: 2rem;
+    color: gray;
+    font-size: small;
+}
+ul.list-style {
+    list-style-image: url(./assests/5aa78e207603fc558cffbf19.png);
+    font-weight: 600;
+    margin-bottom: 5rem;
+}
+li.list {
+    margin-bottom: 1rem;
+}
+.pack h2 {
+    color: gray;
+    font-size: small;
+    text-align: center;
+}
+.pack h3 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 0rem;
+}
+.pack button {
+text-align: center;
+}
+.pack button {
+    text-align: center;
+    margin-bottom: 7vh;
+    margin-left: 8vh;
+}
+span {
+    color: gray;
+}
+.sixth {
+    font-family: system-ui;
+    margin-top: 8rem;
+}
+.sixth h1 {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+.sixth p {
+    text-align: center;
+    color: gray;
+}
+.seventh p {
+    width: 25rem;
+}
+div#setting07 {
+    width: 4.5rem;
+    height: 4.5rem;
+    background-image: url(./assests/Hosting\ Landing\ Page.svg);
+    background-position: 2rem -53rem;
+    border-radius: 3rem;
+    margin-right: 1rem;
+}
+.seventh {
+    font-family: system-ui;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 6rem;
+}
+.pack01 {
+    display: flex;
+    align-items: center;
+}
+.pack01 h2 {
+    font-size: medium;
+}
+section.color01 {
+    background-image: linear-gradient(to bottom right,#09c0f8, #005fe9);
+    font-family: system-ui;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+.head h1 {
+    color: white;
+    font-size: 3rem;
+    width: 30rem;
+}
+.head p {
+    width: 30rem;
+    color: white;
+}
+.eighty {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 3rem;
+}
+button.rn {
+    background: transparent;
+    margin-left: 3rem;
+    font-family: sans-serif;
+    font-size: medium;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    color: white;
+    border-color: #ffffff;
+}
+img[alt="logof"] {
+    filter: brightness(0);
+    width: 6rem;
+    padding: 1.5rem;
+}
+.ninth {
+    display: flex;
+    font-family: system-ui;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.ninth p {
+    width: 13rem;
+    color: gray;
+}
+.pack03 {
+    display: flex;
+    flex-flow: column;
+}
+.pack03 ul {
+    margin: 1rem;
+    padding: 0px;
+    color: gray;
+}
+.pack03 h2 {
+    margin-left: 1.5rem;
+}
+div#setting08 {
+    width: 10.5rem;
+    height: 3.5rem;
+    background-image: url(./assests/Hosting\ Landing\ Page.svg);
+    background-position: -16rem -52rem;
+    border-radius: 3rem;
+    margin-right: 1rem;
+}
+
+@media screen and (max-width: 1050px) {
+    ul.list {
+        display: none;
+    }
+    .first {
+        display: flex;
+        flex-flow: wrap;
+    }
+    .second {
+        display: flex;
+        flex-flow: wrap;
+    }
+    .third {
+        display: flex;
+        flex-flow: wrap;
+    }
+    .set02 {
+        display: flex;
+        text-align: center;
+        flex-flow: wrap;
+    }
+    .set01 {
+        display: flex;
+        text-align: center;
+        flex-flow: wrap;
+    }
+    .fifth {
+        display: flex;
+        flex-flow: wrap;
+    }
+    .seventh {
+        display: flex;
+        flex-flow: wrap;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .eighty {
+        display: flex;
+        flex-flow: wrap;
+    }
+    .ninth {
+        display: flex;
+        flex-flow: wrap;
+    }
+}
